@@ -174,6 +174,7 @@ A contribution can simply be:
 The goal of your first contribution is not to impress anyone.
 
 **The goal is to understand how contributing works.**
+Commerce
 
 ---
 
